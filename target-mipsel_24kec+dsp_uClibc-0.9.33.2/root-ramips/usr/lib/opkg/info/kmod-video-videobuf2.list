@@ -1,0 +1,4 @@
+/lib/modules/3.10.49/videobuf2-memops.ko
+/lib/modules/3.10.49/videobuf2-vmalloc.ko
+/etc/modules.d/65-video-videobuf2
+/lib/modules/3.10.49/videobuf2-core.ko

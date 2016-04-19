@@ -1,0 +1,3 @@
+/lib/modules/3.10.49/v4l2-common.ko
+/etc/modules.d/60-video-core
+/lib/modules/3.10.49/videodev.ko

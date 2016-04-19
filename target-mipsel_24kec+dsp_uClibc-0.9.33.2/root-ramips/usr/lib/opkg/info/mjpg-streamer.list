@@ -1,0 +1,8 @@
+/usr/bin/mjpg_streamer
+/usr/lib/input_file.so
+/usr/lib/output_http.so
+/usr/lib/input_uvc.so
+/etc/hotplug.d/usb/20-mjpg-streamer
+/etc/config/mjpg-streamer
+/etc/init.d/mjpg-streamer
+/www/webcam/index.html

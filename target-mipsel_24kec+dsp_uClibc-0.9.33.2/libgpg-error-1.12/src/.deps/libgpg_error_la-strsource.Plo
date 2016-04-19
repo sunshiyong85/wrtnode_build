@@ -1,0 +1,13 @@
+libgpg_error_la-strsource.lo: strsource.c ../config.h gpg-error.h \
+ /home/sun/workspace/sun/wrtnode/wrtnode/staging_dir/toolchain-mipsel_24kec+dsp_gcc-4.8-linaro_uClibc-0.9.33.2/lib/gcc/mipsel-openwrt-linux-uclibc/4.8.3/include/stddef.h \
+ gettext.h err-sources.h
+
+../config.h:
+
+gpg-error.h:
+
+/home/sun/workspace/sun/wrtnode/wrtnode/staging_dir/toolchain-mipsel_24kec+dsp_gcc-4.8-linaro_uClibc-0.9.33.2/lib/gcc/mipsel-openwrt-linux-uclibc/4.8.3/include/stddef.h:
+
+gettext.h:
+
+err-sources.h:

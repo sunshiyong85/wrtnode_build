@@ -1,0 +1,2 @@
+/etc/modules.d/video-uvc
+/lib/modules/3.10.49/uvcvideo.ko

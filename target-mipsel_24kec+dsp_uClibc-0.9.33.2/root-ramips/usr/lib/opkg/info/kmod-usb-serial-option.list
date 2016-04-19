@@ -1,0 +1,2 @@
+/etc/modules.d/usb-serial-option
+/lib/modules/3.10.49/option.ko

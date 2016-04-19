@@ -1,0 +1,2 @@
+
+GROUP ( $(libdir)/libntfs-3g.so  )

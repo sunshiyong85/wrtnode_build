@@ -1,0 +1,10 @@
+Package: kmod-crypto-core
+Version: 3.10.49-1
+Depends: kernel (=3.10.49-1-8aba838e6b0bec3a2348b80ae0460926)
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Status: unknown hold not-installed
+Architecture: ramips_24kec
+Installed-Size: 7076
+Description:  Core CryptoAPI modules

@@ -1,0 +1,8 @@
+Package: ralink-wifi
+Version: 1
+Depends: libc, wireless-tools, maccalc
+Source: feeds/wrtnode/ralink/ralink-wifi
+Section: ralink
+Architecture: ramips_24kec
+Installed-Size: 481589
+Description:  Ralink APSoC WiFi driver for DreamBox
